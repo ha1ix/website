@@ -1,19 +1,21 @@
+---
+title: "Disassembly and Parts Replacement"
+draft: false
+menu:
+  docs:
+    title:
+    parent: "PineNote/Further_information"
+    identifier: "PineNote/Further_information/Disassembly_and_parts_replacement"
+    weight: 7
+---
 
-+++
-title = "Disassembly and Parts Replacement"
-draft = false
-weight = 70
-[menu.docs]
-  parent = "PineNote/Further_information"
-  identifier = "pinenote-disassembly-parts"
-+++
-
-## Battery Replacement
+## Battery replacement
 
 See writeup on the wiki: https://wiki.pine64.org/wiki/PineNote/Battery_Replacement
 
 <!-- TODO: reproduce full guide here once wiki content is confirmed stable -->
-## USB-C Sideboard Replacement
+
+## USB-C Sideboard replacement
 
 The USB-C Sideboard is one of the few replacement parts available from the Pine64 Store: https://pine64.com/product/pinepmote-usb-c-side-board/
 
